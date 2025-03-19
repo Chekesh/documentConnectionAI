@@ -1,0 +1,13 @@
+package com.example.documentconnectionai;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DocumentConnectionAiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DocumentConnectionAiApplication.class, args);
+	}
+
+}
